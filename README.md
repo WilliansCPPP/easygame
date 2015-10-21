@@ -1,5 +1,5 @@
-Jeasy Game
-Egine para desenvolvimento de jogos em Java.
+Jeasy Game:
+egine para desenvolvimento de jogos em Java.
 
 Esse projeto corresponde a um egine (Motor) para desenvolvimento de jogos em Java.
 
